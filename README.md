@@ -14,5 +14,7 @@ Both types of users can view all upcoming and previous events. Users can also ra
 
 # Planned Technology (will update as necessary)
 Front-end: HTML/CSS, Angular, SASS, ag-grid
+
 Service: Debating between node.js/react for learning new material or java to practice existing techs...
+
 Back-end: Probably mongo if I go node to round out the MEAN stack, or PL/SQL to go with Java/Spring
