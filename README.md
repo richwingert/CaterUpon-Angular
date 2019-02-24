@@ -13,8 +13,8 @@ Upon selecting a local Caterer, the Customer can view the Caterer’s public pro
 Both types of users can view all upcoming and previous events. Users can also rate and leave a review on any of their past events
 
 # Planned Technology (will update as necessary)
-Front-end: HTML/CSS, Angular, SASS, ag-grid
+**Front-end**: HTML/CSS, Angular, SASS, ag-grid
 
-Service: Debating between node.js/react for learning new material or java to practice existing techs...
+**Service**: Java8, Spring boot
 
-Back-end: Probably mongo if I go node to round out the MEAN stack, or PL/SQL to go with Java/Spring
+**Back-end**: Oracle PL/SQL (currently being stored on a local Oracle 18c XE)
